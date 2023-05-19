@@ -1,6 +1,6 @@
 <?php
-$APIKEY = '0813';
-$dbjoin = 'no';
+$APIKEY = 'MJUFZ9SPiaiNzVZhMijmAR3klnOz1XZlRhC/z9fzDJVopGk=';
+$dbjoin = 'yes';
 $nomoradmin = "6281327663511";
 $web = "http://localhost/elibrary";
 date_default_timezone_set('Asia/Jakarta');
