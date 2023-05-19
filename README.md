@@ -1,3 +1,4 @@
+Bekerja pada PHP versi 5.x.x & 7.x.x
 
 WhatsApp API SLiMs
 
